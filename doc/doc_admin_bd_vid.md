@@ -26,6 +26,9 @@ outil de consultation pour le CSI
 presta qui assure la maintenance qui doit pouvoir faire évoluer la donnée
 extraction tab bord
 
+dsi en amo et en amont pour définir l'équipement de la videoprotection
+dsi monte dossier sub et autorisation
+
 ## Schéma fonctionnel
 
 ![schema_fonctionnel](img/schema_fonctionnel_amt_fon_eco.png)
