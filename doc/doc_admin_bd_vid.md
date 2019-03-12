@@ -28,6 +28,9 @@ extraction tab bord
 
 dsi en amo et en amont pour définir l'équipement de la videoprotection
 dsi monte dossier sub et autorisation
+csi gére l'exploitation/maintenance de la videoprotection
+maintenance en partie gérée en direct, en partie sous traitée
+csi suivre vie des autorisations préférotable
 
 ## Schéma fonctionnel
 
